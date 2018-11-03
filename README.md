@@ -67,8 +67,11 @@ Alur algoritmanya
 	int main()
 {
     int N,X,T,Batas;
+    
     cout<< " Masukan Nilai N :" ;
+    
     cin>> N;
+    
     cout<< endl;
 
     Batas = N + 100;
